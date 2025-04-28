@@ -3,7 +3,7 @@
 I'm a beginner web developer with a strong curiosity about how the web works and how great user experiences are built. Currently, I'm exploring HTML, CSS, JavaScript, and slowly diving into frameworks like React and backend tools like PHP and MySQL.
 
 ## 🌱 What I'm learning
-- Frontend Development (HTML, CSS, JavaScript)
+- Frontend Development
 - Git & GitHub for version control
 
 ## 🚀 Goals for 2025
