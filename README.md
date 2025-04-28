@@ -17,10 +17,14 @@ I'm a beginner web developer with a strong curiosity about how the web works and
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 ## 📫 Let's Connect!
 - Portfolio (soon!)
 - Email: lutfanalaudin@gmail.com
-- Instagram: @dableyuu
+- Instagram: https://www.instagram.com/dableyuu
 
 > "Every expert was once a beginner. Keep building, keep learning."
 
