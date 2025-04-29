@@ -22,9 +22,9 @@ I'm a beginner web developer with a strong curiosity about how the web works and
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nekonepan&show_icons=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nekonepan&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekonepan&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonepan&layout=compact&theme=default)
 
 ## 📫 Let's Connect!
 - Email: lutfanalaudin@gmail.com
