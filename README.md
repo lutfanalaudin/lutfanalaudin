@@ -25,11 +25,9 @@ I'm a beginner web developer with a strong curiosity about how the web works and
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats
-![Nekonepan's Stats](https://github-readme-stats.vercel.app/api?username=Nekonepan&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+[![Nekonepan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nekonepan&show_icons=true&include_all_commit=true&hide_border=true&rank_icon=github&bg_color=DEG,ffcbf2,f3c4fb,ecbcfd,e5b3fe,e2afff,deaaff,d8bbff,d0d1ff,c8e7ff,c0fdff&title_color=ffffff&icon_color=000000&text_color=ffffff)](https://github.com/Nekonepan/github-readme-stats)
 
-![Nekonepan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nekonepan&theme=dracula&hide_border=true)
-
-![Nekonepan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonepan&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+[![Nekonepan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekonepan&layout=compact&hide_border=true&bg_color=DEG,ffcbf2,f3c4fb,ecbcfd,e5b3fe,e2afff,deaaff,d8bbff,d0d1ff,c8e7ff,c0fdff&title_color=ffffff&icon_color=000000&text_color=ffffff)](https://github.com/Nekonepan/github-readme-stats)
 
 ## 📫 Let's Connect!
 - Email: lutfanalaudin@gmail.com
